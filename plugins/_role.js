@@ -21,9 +21,9 @@ const roles = {
   /*
   'Role Name': <Minimal Level To Obtain this Role>
   */
-  'Beginner': 0, 
-  'Early Soldier': 5,
-  'Commander': 10,
+  'Salva Baby': 0, 
+  'Salva Soldier': 5,
+  'Salva Commander': 10,
   'Initial Commander': 15,
   'Commander Elite': 20,
   'Initial Commander Elit': 25,
