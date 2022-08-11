@@ -96,17 +96,17 @@ let handler = async (m, { conn, usedPrefix }) => {
     let str = `
 Inventory *${await conn.getName(name)}*
 
-Health: *${health}*
-Armor: *${armor == 0 ? 'Tidak Punya' : '' || armor == 1 ? 'Leather Armor' : '' || armor == 2 ? 'Iron Armor' : '' || armor == 3 ? 'Gold Armor' : '' || armor == 4 ? 'Diamond Armor' : '' || armor == 5 ? 'Netherite Armor' : ''}*
-Money: *${money}*
-Limit: *${limit}*
-Level: *${level}*
-Exp: *${exp}*
-Atm: *${bank}*
-Cupon: *${cupon}*
-Expg: *${expg}*
-Tiketm: *${tiketm}*
-Tiketcoin: *${tiketcoin}*
+❤ | Health: *${health}*
+🛡 | Armor: *${armor == 0 ? 'Tidak Punya' : '' || armor == 1 ? 'Leather Armor' : '' || armor == 2 ? 'Iron Armor' : '' || armor == 3 ? 'Gold Armor' : '' || armor == 4 ? 'Diamond Armor' : '' || armor == 5 ? 'Netherite Armor' : ''}*
+💵 | Money: *${money}*
+📟 | Limit: *${limit}*
+🆙 | Level: *${level}*
+📊 | Exp: *${exp}*
+💳 | Atm: *${bank}*
+🔖 | Cupon: *${cupon}*
+📊 | Expg: *${expg}*
+🏷 | Tiketm: *${tiketm}*
+📀 | Tiketcoin: *${tiketcoin}*
 
 *Inventory*
 Potion: *${potion}*
