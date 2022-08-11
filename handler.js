@@ -290,7 +290,7 @@ module.exports = {
                     limitspam: 0,
                     money: 10000,
                     bank: 10000,
-                    health: 100,
+                   ❤ health: 100,
                     tiketcoin: 0,
                     healtmonster: 100,
                     armormonster: 0,
