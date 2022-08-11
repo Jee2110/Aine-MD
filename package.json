@@ -1,7 +1,7 @@
 {
-    "name": "Aine-Bot",
-    "version": "07.06.98",
-    "description": "Customizable WhatsApp Bot",
+    "name": "Salvasic System",
+    "version": "0.1",
+    "description": "System WhatsApp Bot",
     "depecrated": false,
     "main": "index.js",
     "directories": {
