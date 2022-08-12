@@ -35,8 +35,8 @@ let tags = {
 }
 const defaultMenu = {
   before: `
-"𝐒𝐀𝐋𝐕𝐀𝐒𝐈𝐂 𝐂𝐎𝐌𝐌𝐔𝐍𝐈𝐓𝐘 "
-Woi Item Halo, %ucapan %name! ❤
+*"𝐒𝐀𝐋𝐕𝐀𝐒𝐈𝐂 𝐂𝐎𝐌𝐌𝐔𝐍𝐈𝐓𝐘"*
+_Woi Item Halo, %ucapan %name! ❤_
   
 *Waktu :* 
 ⏱️ • %wib WIB
