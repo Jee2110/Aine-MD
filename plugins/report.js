@@ -8,7 +8,7 @@ let handler = async(m, { conn, text, usedPrefix, command}) => {
     var nomor = m.sender
     const teks1 = `*[ REPORT ]*\nNomor : wa.me/${nomor.split("@s.whatsapp.net")[0]}\nPesan : ${text}`
     conn.reply('6288291865530@s.whatsapp.net', teks1, m)
-    conn.reply(m.chat, '✔️ Masalah berhasil dikirimkan ke Owner', m)
+    conn.reply(m.chat, '```*SUCCES* Report Telah Dikirimkan*```', m)
 }
 handler.help = ['report <fitur>']
 handler.tags = ['info']
