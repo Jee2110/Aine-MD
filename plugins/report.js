@@ -9,7 +9,6 @@ let handler = async(m, { conn, text, usedPrefix, command}) => {
     const teks1 = `*[ REPORT ]*\nNomor : wa.me/${nomor.split("@s.whatsapp.net")[0]}\nPesan : ${text}`
     conn.reply('6288291865530@s.whatsapp.net', teks1, m)
     conn.reply(m.chat, '*📮 • SUCCESSFUL*
-
 ```Laporan Mu Telah Terkirim!```', m)
 }
 handler.help = ['report <fitur>']
