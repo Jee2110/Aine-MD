@@ -55,8 +55,8 @@ _Woi Item Halo, %ucapan %name! ❤_
 %readmore`.trimStart(),
   header: ' *%category*',
   body: ' • %cmd %islimit %isPremium',
+  footer: ' Tes Ya ' , 
   after: `*Made by salvasic*
-  footer: '📮 *Note:* Jika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada Owner'
 *%npmname* | %version
 ${'```%npmdesc```'}
 `,
