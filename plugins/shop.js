@@ -95,7 +95,7 @@ const Bsword = 150000
 const Ssword = 15000
 const Bumpan = 1500
 const Sumpan = 100
-const Bpancingan = 5000000
+const Bpancingan = 500000
 const Spancingan = 500000
 const Bbatu = 500
 const Sbatu = 100
@@ -116,12 +116,12 @@ Contoh penggunaan: *${usedPrefix}shop buy potion 1*
 
 ============================
 *Kebutuhan   |  Harga Beli*
-Limit:     ${Blimit}
-TiketM:     ${Bhealtmonster}
-Cupon:     ${Btiketcoin}
-KoinExpg:     ${Bkoinexpg}
+🛍| Limit:     ${Blimit}
+🎫| TiketM:     ${Bhealtmonster}
+🔖| Cupon:     ${Btiketcoin}
+📊| KoinExpg:     ${Bkoinexpg}
 
-*Kebutuhan   |  Harga Jual*
+*𝐅𝐫𝐮𝐢𝐭 𝐁𝐮𝐲   |  𝐖𝐚𝐫𝐮𝐧𝐠 𝐒𝐞𝐧𝐨*
 Limit:     ${Slimit}
 ============================
 *Bibit Buah   |  Harga Beli*
@@ -132,7 +132,7 @@ BibitJeruk:       ${Bbibitjeruk}
 BibitApel:       ${Bbibitapel}
 Gardenboxs:     ${Bgardenboxs}
 ============================
-*Barang   |  Harga Beli*
+*𝐄𝐪𝐮𝐢𝐩𝐦𝐞𝐧𝐭 𝐁𝐮𝐲  |  𝐏𝐚𝐧𝐣𝐢𝐌𝐚𝐫𝐭*
 Potion:       ${potion}
 Diamond:     ${Bdiamond}
 Common:     ${Bcommon}
@@ -152,7 +152,7 @@ Kayu:       ${Bkayu}
 Berlian:       ${Bberlian}
 Emas:       ${Bemasbiasa}
 
-*Barang   | Harga Jual*
+*𝐄𝐪𝐮𝐢𝐩𝐦𝐞𝐧𝐭 𝐒𝐞𝐥𝐥  |  𝐅𝐞𝐛𝐫𝐢 𝐒𝐭𝐨𝐫𝐞*
 Potion:       ${Spotion}
 Diamond:     ${Sdiamond}
 Common:     ${Scommon}
@@ -173,7 +173,7 @@ Emas:       ${Semasbiasa}
 ============================
 *List Makanan:*
 
-*Makanan | Harga Beli*
+*𝐖𝐚𝐫𝐭𝐞𝐠 | 𝐌𝐛𝐚 𝐑𝐞𝐫𝐞*
 Pisang:       ${Bpisang}
 Anggur:       ${Banggur}
 Mangga:       ${Bmangga}
@@ -186,7 +186,7 @@ MakananGriffin:       ${Bmakanangriffin}
 MakananPhonix:       ${Bmakananphonix}
 MakananCentaur:       ${Bmakanancentaur}
 
-*Makanan | Harga Jual*
+*𝐒𝐞𝐥𝐥 𝐅𝐨𝐨𝐝 | 𝐏𝐚𝐬𝐚𝐫 𝐂𝐢𝐬𝐚𝐭𝐢𝐫*
 Pisang:       ${Spisang}
 Anggur:       ${Sanggur}
 Mangga:       ${Smangga}
@@ -199,13 +199,13 @@ MakananGriffin:       ${Smakanangriffin}
 MakananPhonix:       ${Smakananphonix}
 MakananCentaur:       ${Smakanancentaur}
 ============================
-*Minuman | Harga Beli*
+*𝐅𝐞𝐧𝐝𝐢𝐧𝐠 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 | 𝐒𝐚𝐥𝐯𝐚𝐬𝐢𝐜*
 Aqua:       ${Baqua}
 
-*Minuman | Harga Jual*
+*𝐅𝐞𝐧𝐝𝐢𝐧𝐠 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 | 𝐒𝐚𝐥𝐯𝐚𝐬𝐢𝐜*
 Aqua:       ${Saqua}
 ============================
-*Fishing | Harga Beli*
+*𝐓𝐨𝐤𝐨 𝐏𝐚𝐧𝐜𝐢𝐧𝐠 | 𝐋𝐢𝐥 𝐆𝐨𝐛𝐨𝐤*
 Pancingan:       ${Bpancingan}
 Umpan:       ${Bumpan}
 `.trim()
