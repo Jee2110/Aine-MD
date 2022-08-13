@@ -55,8 +55,8 @@ _Woi Item Halo, %ucapan %name! ❤_
 %readmore`.trimStart(),
   header: ' *%category*',
   body: ' • %cmd %islimit %isPremium',
-  footer: ' n/' , 
-  after: `*Made by salvasic*
+  footer: ' –––––––––– ' , 
+  after: ` *📮 Note* : Jika Ingin Melaporkan Gunakan Gunakan Command Report!
 *%npmname* | %version
 ${'```%npmdesc```'}
 `,
