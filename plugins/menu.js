@@ -55,7 +55,7 @@ _Woi Item Halo, %ucapan %name! ❤_
 %readmore`.trimStart(),
   header: ' *%category*',
   body: ' • %cmd %islimit %isPremium',
-  footer: ' Tes Ya ' , 
+  footer: ' n/' , 
   after: `*Made by salvasic*
 *%npmname* | %version
 ${'```%npmdesc```'}
